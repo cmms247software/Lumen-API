@@ -1,0 +1,39 @@
+.card-container {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(180, 180, 180));
+}
+
+.card {
+    top: 20vh;
+    margin: 0 10px;
+    padding: 30px 30px;
+    background-color: #fff;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.form-control {
+    border-radius: 0;
+    border-color: #003d71;
+    line-height: 1;
+    font-size: 0.8rem
+}
+
+ .form-control {
+    border-radius: 0;
+}
+
+.form-group {
+    padding-bottom: 10px
+}
+
+.input-group-addon{
+    background: #003d71;
+    color:#fff;
+    border-radius: 0
+}

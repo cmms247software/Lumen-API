@@ -1,0 +1,13 @@
+version: 0.0
+os: linux
+files:
+   - source: /
+     destination: /var/www/html/iss_aws
+permissions:
+   - object: /var/www/html/iss_aws
+     pattern: "**"
+     owner: ec2-user
+     group: nginx
+     mode: 755
+     type:
+       - file

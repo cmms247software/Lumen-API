@@ -1,0 +1,23 @@
+.jumbotron{
+	background-color: #2E2D88;
+	color: white;
+}
+
+table {
+	border-collapse: separate;
+	border: 10px;
+	width: 100%;
+	border-color: grey;
+}
+
+.scrollable {
+	height: 230px;
+	overflow-y: scroll;
+}
+
+th {
+	text-align: center;
+}
+
+
+

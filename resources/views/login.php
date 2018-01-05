@@ -42,7 +42,7 @@
                         </div>
                         <button class="form-control bg-primary" id="login_submit_button" name="submit" type="submit">Sign in</button>
                         <hr />
-                        <p>Copyright 2018 - 24x7 Software Updated</p>
+                        <p>Copyright 2018 - 24x7 Software Updated Again</p>
                     </form>
                 </div>
             </div>
